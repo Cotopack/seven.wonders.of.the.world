@@ -1,0 +1,47 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+header img{
+    width: 15%;
+    height: 15%;
+    margin-left:5%;
+    
+   
+}
+header{margin-bottom: 2%;}
+b{  
+    margin-left:20%;
+    margin-right:5%;
+}
+
+header a{
+  
+    text-decoration: none;
+    color: black;
+}
+nav{
+   display: flex;
+   justify-content: space-around;
+}
+nav a{
+    color: #282955;
+    text-decoration: none;
+     border: 2px solid #282955;
+    padding: 1%;
+    border-radius: 15%;
+   
+}
+h1,h2,p{
+    text-align: center;
+}
+.big{
+width: 80%;
+    margin-left: 10%;
+}
+.foto{
+    width: 80%;
+    margin-left: 10%;
+    display: flex;
+    justify-content: center;
+    
+}
